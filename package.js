@@ -1,6 +1,6 @@
 Package.describe({
   name: 'meridian:soap',
-  version: '0.2.6',
+  version: '0.2.7',
   summary: 'Wrapped npm soap package',
   git: 'https://github.com/meridian-integration/meteor-soap.git',
   documentation: 'README.md'
