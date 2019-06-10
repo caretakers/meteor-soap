@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  soap: '0.16.0'
+  soap: '0.26.0'
 });
 
 Package.onUse(function(api) {
